@@ -1,0 +1,59 @@
+body {
+    font-size: 11px; text-align: center;
+    color: hsl(228, 45%, 44%);
+    
+    background-color:hsl(30, 38%, 92%) ;
+}
+
+image {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px 0px 10px 0px ;
+}
+
+.row {
+    align-content: center;
+    
+}
+
+.col {
+    size: 1440px;
+    height: 300px;
+    width: 200px;
+}
+
+.price1 {
+    color: hsl(158, 36%, 37%);
+    font-family: "fraunces";
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.price2 {
+    text-decoration: line-through;
+    color: hsl(228, 12%, 48%);
+
+}
+
+.des { background-color: white;
+    padding: 0px;
+    margin: 0%;
+
+}
+
+.img {
+    padding: 0px;
+    margin: 0%;
+}
+
+.name {
+     color:  hsl(212, 21%, 14%) ;
+     font-family: "fraunces";
+}
+
+
+
+.description {
+    color:hsl(228, 12%, 48%) ;
+    font-family: "Montserrat";
+}
